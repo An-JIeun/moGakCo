@@ -1,3 +1,3 @@
 # moGakCo - kmeans_to_pyLDA for download...
-## ! 원본 소스코드 출처 : https://github.com/lovit/kmeans_to_pyLDAvis
+- __! 원본 소스코드 출처 : https://github.com/lovit/kmeans_to_pyLDAvis __
 - setup.py, src 파일 추가
